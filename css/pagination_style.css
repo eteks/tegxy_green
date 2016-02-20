@@ -1,0 +1,5 @@
+#wrapper{width:90%;margin-top: 15px; border:0px solid #BBBBBB; padding:2px;}
+#wrapper ul{list-style:none; margin-left:10%;}
+#wrapper ul li a{text-decoration:none; border:1px solid #474747; padding:2px 8px 2px 8px; color:#474747;}
+#wrapper ul li{float:left; margin-left:10px; margin-bottom:20px;}
+#fotter{clear:both;text-align:right;font-size:10px;color: #222; border:1px solid #BBBBBB; padding:10px;width:100%;margin-top: 25px;}

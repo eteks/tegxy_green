@@ -1,0 +1,165 @@
+@charset "utf-8";
+/* CSS Document */
+
+body{
+	background:#FFFFFF;
+	padding:0px;
+	margin:0 auto;
+	height:100% !important;
+}
+
+a{
+	color:#FFFFFF;
+	text-decoration:none;
+}
+
+a:hover{
+	text-decoration:none;
+}
+
+.tdcom{
+	margin:0 auto;
+	padding:5px;
+}
+.title{
+	background:url(../images/gridbox/title_m_bg.gif) top repeat-x;
+	font-family:Verdana, Geneva, sans-serif;
+	font-size:14px;
+	color:#FFFFFF;
+	text-shadow: #000000 2px 2px 2px;
+	padding:5px;
+	
+	letter-spacing:0.2px;
+}
+
+.sub_title{ 
+	background:url(../images/gridbox/sub_m_bg.gif) top repeat-x;
+	font-family: Arial, Helvetica, sans-serif;
+	font-size:14px;
+	color:#ffffff;
+	text-shadow: #666666 2px 2px 2px;
+	padding:5px 5px 0;
+	margin:0 auto;
+	letter-spacing:0.3px;
+}
+
+.td{
+	margin:0 auto;
+	padding:5px 5px 0 5px;
+}
+
+.tdmsg{
+	margin:0 auto;
+	padding:1px ;
+	background-color:#fdf3de;
+}
+
+.gridmenu{
+	background:url(../images/gridbox/grid_m_bg.gif) top repeat-x;
+	font-size:11px;
+	font-family:Arial, Helvetica, sans-serif;
+	color:#ffffff;
+	letter-spacing:0.8px;
+}
+
+
+.gridtxt{
+	/*background:url(../images/gridbox/fields_bg.gif) top ;*/
+	font-size:11px;
+	font-family:Arial, Helvetica, sans-serif;
+	color:#030;
+	letter-spacing:0.6px;
+	height:20px;
+	padding:2px 0 2px 0;
+}
+.gridtxt1{
+	/*background:url(../images/gridbox/fields_bg.gif) top ;*/
+	font-size:11px;
+	font-family:Arial, Helvetica, sans-serif;
+	letter-spacing:0.6px;
+	height:20px;
+	padding:2px 0 2px 0;
+	color:#030;
+}
+.
+.grid{
+	height:19px;
+	font-family:Arial, Helvetica, sans-serif;
+	font-size:11px;
+	color:#333333;
+	padding-top:2px;
+	text-decoration:none;
+}
+.gridclr{
+	height:19px;
+	font-family:Arial, Helvetica, sans-serif;
+	font-size:11px;
+	color:#006600;
+	padding-top:2px;
+	text-decoration:none;
+
+}
+
+.grid a{
+	color:#333333;
+		text-decoration:none;
+		
+}
+
+.grid a:hover{
+	color:#FF6633;
+		text-decoration:underline;
+}
+
+
+.input{
+	border:1px #4f4f4f solid;
+	font-size:12px;
+	color: #163300;
+	font-family:Arial, Helvetica, sans-serif;
+	background:#fffff;
+	height:18px;
+	width:160px;/* width:250px; 180*/
+}
+
+.inputchk{
+	border:1px #4f4f4f solid;
+	font-size:12px;
+	color: #FFFFFF;
+	font-family:Arial, Helvetica, sans-serif;
+	background:#fbc66e ;
+}
+
+
+.dropdown{
+	border:1px #4f4f4f solid;
+	font-size:12px;
+	color: #163300;
+	font-family:Arial, Helvetica, sans-serif;
+	background:#FFFFFF ;
+	width:160px;/*250px;*/
+	height:20px;
+}
+
+
+
+.feildstxt{
+	font-family:Arial, Helvetica, sans-serif;
+	font-size:12px;
+	color:#333333;
+}
+
+.menu{
+	background:url(../images/gridbox/menu_bg.gif) no-repeat;
+	font-size:11px;
+	font-family:Arial, Helvetica, sans-serif;
+	color:#FFFFFF;
+	text-shadow:#000000 2px 2px 2px;
+	width:61px;
+	height:19px;
+	border:0px;
+	text-align:center;
+	cursor:pointer;
+	
+}
+
